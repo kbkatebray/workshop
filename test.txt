@@ -1,1 +1,2 @@
 This is the test
+Kate is learning github.
